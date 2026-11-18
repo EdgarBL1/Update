@@ -2,17 +2,15 @@
   "Version": "1",
   "Notes": "Datos de prueba para la interfaz de servidores VPN",
   "Configs": [
-    
     {
       "type": "XRAY",
-      "name": "CLARO",
+      "name": "Servidor Xray",
       "details": {
-        "uri": "vless://ee28f5de-4956-4a61-9787-faa077c15f75@server3.ltmdkz.space:80?encryption=none&security=none&type=xhttp&host=gloft.co&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#ltmfree-test4-XHTTP",
-        "country": "SV",
-"city": "sv",
-        "description": "cargando.."
+        "uri": "vless://ee28f5de-4956-4a61-9787-faa077c15f75@server3.ltmdkz.space:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=gloft.co&type=xhttp#ltmfree-test4-XHTTP",
+        "country": "sv",
+        "city": "CLARO",
+        "description": "prueba"
       }
-      
     }
   ]
 }
